@@ -1,1 +1,1 @@
-prints basic information about the operating system
+writes to standard output the name of the operating system that you are using. 
